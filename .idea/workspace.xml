@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a4da698-f7fa-4803-86a7-fc06c99cf341" name="Changes" comment="decrease size">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ccRLzKVZmJoz2767z6GFRETnhI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Django Server.blog.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Aida/دی پروژه/رزومه سازی/Blog/blog/static/assets/img&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Aida\دی پروژه\رزومه سازی\Blog\blog\static\assets\img" />
+      <recent name="F:\Aida\دی پروژه\رزومه سازی\Blog\blog\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django Server.Blog">
+    <configuration name="Blog" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Blog" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="blog.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="blog" type="Python.DjangoServer" factoryName="Django server">
+      <module name="blog" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="blog.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a4da698-f7fa-4803-86a7-fc06c99cf341" name="Changes" comment="" />
+      <created>1708408828879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708408828879</updated>
+      <workItem from="1708408829920" duration="393000" />
+      <workItem from="1708409392531" duration="13358000" />
+      <workItem from="1708583631078" duration="8048000" />
+      <workItem from="1708612088395" duration="434000" />
+      <workItem from="1708616405831" duration="1411000" />
+      <workItem from="1708675914831" duration="4895000" />
+      <workItem from="1708963582985" duration="628000" />
+      <workItem from="1708968777993" duration="62000" />
+      <workItem from="1708979412338" duration="475000" />
+      <workItem from="1708984394503" duration="645000" />
+      <workItem from="1709014310014" duration="1359000" />
+      <workItem from="1709136109147" duration="81000" />
+      <workItem from="1709290301083" duration="2531000" />
+      <workItem from="1709317403537" duration="1806000" />
+      <workItem from="1709398032650" duration="154000" />
+      <workItem from="1709570042673" duration="1750000" />
+      <workItem from="1709620118420" duration="7242000" />
+      <workItem from="1709650739212" duration="1081000" />
+      <workItem from="1709741095906" duration="9348000" />
+      <workItem from="1709794309243" duration="479000" />
+      <workItem from="1709794800039" duration="16416000" />
+      <workItem from="1709922751221" duration="8577000" />
+      <workItem from="1709963274882" duration="2989000" />
+      <workItem from="1709971535524" duration="18122000" />
+      <workItem from="1710053667046" duration="10122000" />
+      <workItem from="1710104825457" duration="255000" />
+      <workItem from="1710182503988" duration="3880000" />
+      <workItem from="1710406473757" duration="306000" />
+      <workItem from="1710406957548" duration="11155000" />
+      <workItem from="1710433309889" duration="2095000" />
+      <workItem from="1710709341264" duration="2542000" />
+      <workItem from="1710740187810" duration="506000" />
+      <workItem from="1710740751064" duration="714000" />
+      <workItem from="1710821283894" duration="613000" />
+      <workItem from="1710822010957" duration="5000" />
+      <workItem from="1712465189005" duration="378000" />
+      <workItem from="1712494751522" duration="38000" />
+    </task>
+    <task id="LOCAL-00001" summary="Django start project">
+      <option name="closed" value="true" />
+      <created>1708408990164</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708408990164</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Django complete 80%">
+      <option name="closed" value="true" />
+      <created>1710105007003</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710105007003</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Django complete 100%">
+      <option name="closed" value="true" />
+      <created>1710709396919</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710709396919</updated>
+    </task>
+    <task id="LOCAL-00004" summary="req.txt">
+      <option name="closed" value="true" />
+      <created>1710709483699</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710709483699</updated>
+    </task>
+    <task id="LOCAL-00005" summary="req.txt">
+      <option name="closed" value="true" />
+      <created>1710709530864</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710709530864</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Regularization of codes">
+      <option name="closed" value="true" />
+      <created>1710709959249</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710709959249</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Regularization of codes">
+      <option name="closed" value="true" />
+      <created>1710709998204</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710709998204</updated>
+    </task>
+    <task id="LOCAL-00008" summary="decrease size">
+      <option name="closed" value="true" />
+      <created>1710740862886</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710740862886</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Django start project" />
+    <MESSAGE value="Django complete 80%" />
+    <MESSAGE value="Django complete 100%" />
+    <MESSAGE value="req.txt" />
+    <MESSAGE value="Regularization of codes" />
+    <MESSAGE value="decrease size" />
+    <option name="LAST_COMMIT_MESSAGE" value="decrease size" />
+  </component>
+</project>
