@@ -131,7 +131,7 @@ typing_extensions==4.10.0
 tzdata==2023.3
 unstructured==0.12.5
 unstructured-client==0.18.0
-urllib3>=2.2.1
+urllib3
 uvicorn==0.27.1
 virtualenv==20.23.1
 watchfiles==0.21.0
